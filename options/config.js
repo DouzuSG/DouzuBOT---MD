@@ -25,7 +25,7 @@ global.sessionName = "session"
 global.footer = "© Recode By DouzuSG"
 global.linkgrupss = "https://chat.whatsapp.com/I2W7heZWXM51RkhrsuJRpu"
 global.antitags = true
-global.txtSewabot = "1-Minggu : Rp5.000\n2-Minggu : Rp.10.000\n1-Bulan : Rp.20.000\n2-Bulan : Rp.30.000\n3-Bulan : Rp40.000"
+global.txtSewabot = "Tidak Open Sewa Bot 🗿"
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Success',
