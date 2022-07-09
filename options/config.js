@@ -7,9 +7,9 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 // Other
-global.thum = fs.readFileSync("./plugins/media/image/thumb.jpg")
-global.log0 = fs.readFileSync("./plugins/media/image/thumb.jpg")
-global.err4r = fs.readFileSync("./plugins/media/image/thumb.jpg")
+global.thum = fs.readFileSync("./plugins/media/image/thumb1.jpg")
+global.log0 = fs.readFileSync("./plugins/media/image/thumb1.jpg")
+global.err4r = fs.readFileSync("./plugins/media/image/thumb1.jpg")
 global.locimg = fs.readFileSync("./plugins/media/image/loc.jpg")
 global.owner = ['62881010433146']
 global.numberOwner = "62881010433146"
